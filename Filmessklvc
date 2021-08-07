@@ -1,0 +1,360 @@
+# EXTM3U
+ 
+#EXTINF: -1 tvg-logo="https://dicas.zone/wp-content/uploads/2020/10/stremio-logo.png"group-title="Lançamentos",STREMIO HD
+https://m3u9.ml/a/hls1/animalplanet.m3u8?mu3zAQc9HC3GbwJq=CAJL1ecMfyqLXVjg1KJVFg&3U1G7qaTxrPbalZnEx=1628070567
+#EXTINF: -1 tvg-logo="https://cinepop.com.br/wp-content/uploads/2021/06/space-jam.jpg"group-title="Lançamentos",Space Jam Um Novo Legado
+magnet:?xt=urn:btih:75b5405815b3b3016e0818b00cf78762b2ac4d0b
+#EXTINF: -1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/23/46/19873389.jpg"group-title="Ação",Velozes & Furiosos 1 720p
+magnet:?xt=urn:btih:9a5d8be7369c4334dc3b01e60f1ba5e0d7b1d96c
+#EXTINF: -1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/23/46/19873389.jpg"group-title="Ação",Velozes & Furiosos 1 1080p
+magnet:?xt=urn:btih:f11ac2647e9f8555bb6f69015005ed2eeb548fb0
+#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-WCDLQHvozyg/WOzJfsRppyI/AAAAAAAAcvE/bXLvK4MiQncCVnzU4b9oli7VPmi-nQCTQCLcB/s1600/2%2Bfast%2B2%2Bfurious%2Bposter.jpg"group-title="Ação",Velozes & Furiosos 2 720p
+magnet:?xt=urn:btih:0e3ab881474e255eee317c1b4f8f6f5e5657f7de
+#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-WCDLQHvozyg/WOzJfsRppyI/AAAAAAAAcvE/bXLvK4MiQncCVnzU4b9oli7VPmi-nQCTQCLcB/s1600/2%2Bfast%2B2%2Bfurious%2Bposter.jpg"group-title="Ação",Velozes & Furiosos 2 1080p
+magnet:?xt=urn:btih:516755c78a5da71decfda204ec508a1c34c36b13
+#EXTINF: -1 tvg-logo="https://www.papodecinema.com.br/wp-content/uploads/2013/06/20180718-velozes-e-furiosos-desafio-em-toquio.jpg"group-title="Ação",Velozes & Furiosos 3 720p
+magnet:?xt=urn:btih:c16777fa821b1895d3d15f230ddef4581a831955
+#EXTINF: -1 tvg-logo="https://www.papodecinema.com.br/wp-content/uploads/2013/06/20180718-velozes-e-furiosos-desafio-em-toquio.jpg" group-title = "Ação",Velozes & Furiosos 3 1080p
+magnet:?xt=urn:btih:1608fff4fd261334f1a5f6d3e6febbd8b91b5176
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8f/Fast_and_Furious_Poster.jpg/250px-Fast_and_Furious_Poster.jpg"group-title="Ação",Velozes & Furiosos 4 720p
+magnet:?xt=urn:btih:3ca9bfff2e8e32add03634d764cb2ca923fdd4a7
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8f/Fast_and_Furious_Poster.jpg/250px-Fast_and_Furious_Poster.jpg"group-title="Ação",Velozes & Furiosos 4 1080p
+magnet:?xt=urn:btih:a193920ddd5a26089198c3ab46c9d9b16dc509df
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/c5/Fast_five_poster_04.jpg/250px-Fast_five_poster_04.jpg"group-title="Ação",Velozes & Furiosos 5: Operação Rio 720p
+magnet:?xt=urn:btih:e3c5c1340ca440129ef6ab26fef2cce88c25516b
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/c5/Fast_five_poster_04.jpg/250px-Fast_five_poster_04.jpg"group-title="Ação",Velozes & Furiosos 5: Operação Rio 1080p
+magnet:?xt=urn:btih:2a61ca417303816a62e57c85731665c1bf87d84f
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/4c/Fast_%26_Furious_6.jpg/240px-Fast_%26_Furious_6.jpg"group-title="Ação",Velozes & Furiosos 6 720p
+magnet:?xt=urn:btih:0dc4eb5fe11b8eced365cd3fabff6aeb719d5412
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/4c/Fast_%26_Furious_6.jpg/240px-Fast_%26_Furious_6.jpg"group-title="Ação",Velozes & Furiosos 6 1080p
+magnet:?xt=urn:btih:ed49a31c1db8173a7d483d479989954d69182555
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b8/Furious_7_poster.jpg/250px-Furious_7_poster.jpg"group-title="Ação",Velozes & Furiosos 7 720p
+magnet:?xt=urn:btih:3632eff4840b5c13a2102a837092e2e29fa2611b
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b8/Furious_7_poster.jpg/250px-Furious_7_poster.jpg"group-title="Ação",Velozes & Furiosos 7 1080p
+magnet:?xt=urn:btih:c012d7a8cc1e89d43891cd10e58e09d088341a6f
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/15/Velozes_e_Furiosos_8_p%C3%B4ster.jpg" group-title = "Ação",Velozes & Furiosos 8 720p
+magnet:?xt=urn:btih:3e2a570db55cc699d34d73038b5dce369a14ec46
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/15/Velozes_e_Furiosos_8_p%C3%B4ster.jpg"group-title="Ação",Velozes & Furiosos 8 1080p
+magnet:?xt=urn:btih:d60fb8d9164471ba8ed21da61805513caa9757e4
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Fast_%26_Furious_9_The_Fast_Saga.jpg/243px-Fast_%26_Furious_9_The_Fast_Saga.jpg"group-title="Ação",Velozes & Furiosos 9 720p
+magnet:?xt=urn:btih:be294e82c796e17751fce89f1d2bc6e8067a23e4
+magnet:?xt=urn:btih:0f854edacf87b83699a9f6ed362108aeb2fac9d2&dn=Jungle%20Cruise%202021%20WEB-DL%20FULL%201080p%20DUAL%205.1&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.internetwarriors.net%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fwww.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=http%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f3rt.tace.ru%3a60889%2fannounce
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Fast_%26_Furious_9_The_Fast_Saga.jpg/243px-Fast_%26_Furious_9_The_Fast_Saga.jpg" group-title="Ação",Velozes & Furiosos 9 1080p
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/69/The_Avengers_Cartaz.jpg/250px-The_Avengers_Cartaz.jpg"group-title="Ação",Os Vingadores 1 720p
+magnet:?xt=urn:btih:d430c1bf03ccec2375e7950853dffabdf53c366b
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/69/The_Avengers_Cartaz.jpg/250px-The_Avengers_Cartaz.jpg"group-title="Ação",Os Vingadores 1 720p
+magnet:?xt=urn:btih:1526dd829688f315c4db8241fe658055128fb1af
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/OsVingadores2.jpg/250px-OsVingadores2.jpg"group-title="Ação",Os Vingadores 2 720p
+magnet:?xt=urn:btih:3ad4f2281826569d2480bb2463f888b6d37e3a9e
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/OsVingadores2.jpg/250px-OsVingadores2.jpg"group-title="Ação",Os Vingadores 2 1080p
+magnet:?xt=urn:btih:fa4b6b85ad15622b886d7d2c923477526947b011
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/90/Avengers_Infinity_War.jpg/250px-Avengers_Infinity_War.jpg"group-title="Ação",Os Vingadores 3 720p
+magnet:?xt=urn:btih:100166da25284115ab33dda9c16cf1b7f2ee1c2b
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/90/Avengers_Infinity_War.jpg/250px-Avengers_Infinity_War.jpg"group-title="Ação",Os Vingadores 3 1080p
+magnet:?xt=urn:btih:ccddb37f6adbef1b41924fb79e33b844ca45cef2
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9b/Avengers_Endgame.jpg/250px-Avengers_Endgame.jpg"group-title="Ação",Os Vingadores 4 720p
+magnet:?xt=urn:btih:083992495565e8b8f841e1aaea1cbf07bea036cc
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9b/Avengers_Endgame.jpg/250px-Avengers_Endgame.jpg"group-title="Ação",Os Vingadores 4 1080p
+magnet:?xt=urn:btih:6fe89d311c83d124f203b83ce4cb3bccd3176fe5
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/c1/Twilight_Poster.jpg/250px-Twilight_Poster.jpg"group-title="Aventura",Crepúsculo 1 720p
+magnet:?xt=urn:btih:18af0d20aea316197f5c1c8f32c76e7dee7ee6c6
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/c1/Twilight_Poster.jpg/250px-Twilight_Poster.jpg"group-title="Aventura",Crepúsculo 1 1080p
+magnet:?xt=urn:btih:7bdfae39c08cb98e49a53deb6ff3c7e51e70db7f
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/5e/Twilight_Saga_New_Moon.jpg/250px-Twilight_Saga_New_Moon.jpg"group-title="Aventura",Crepúsculo 2 720p
+magnet:?xt=urn:btih:cb812e8b30531397c3fa9a9c4a7f15fc5fd554b7
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/5e/Twilight_Saga_New_Moon.jpg/250px-Twilight_Saga_New_Moon.jpg"group-title="Aventura",Crepúsculo 2 1080p
+magnet:?xt=urn:btih:6c34ea7775b79a539b95b15518220ff1d0de5076
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/85/Twilight_Saga_Eclipse.jpg/250px-Twilight_Saga_Eclipse.jpg"group-title="Aventura",Crepúsculo 3 720p
+magnet:?xt=urn:btih:7b3328de13210f8cb8e11b32f020cbf92682d128
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/85/Twilight_Saga_Eclipse.jpg/250px-Twilight_Saga_Eclipse.jpg" group-title = "Aventura",Crepúsculo 3 1080p
+magnet:?xt=urn:btih:d1453da3b24e320f92396170079b8fa150dfabf6
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a0/The_Twilight_Saga_Breaking_Dawn_part_I.jpg/250px-The_Twilight_Saga_Breaking_Dawn_part_I.jpg"group-title="Aventura",Crepúsculo 4 720p
+magnet:?xt=urn:btih:cdfbe727266d0f01351f4a82bde1e9d3d763b113
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a0/The_Twilight_Saga_Breaking_Dawn_part_I.jpg/250px-The_Twilight_Saga_Breaking_Dawn_part_I.jpg"group-title="Aventura",Crepúsculo 4 1080p
+magnet:?xt=urn:btih:b0d2e15e1cdd9ca8bf4acd8c5ba9f099a58c651f
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/00/The_Twilight_Saga_Breaking_Dawn_part_II.jpg/250px-The_Twilight_Saga_Breaking_Dawn_part_II.jpg"group-title="Aventura",Crepúsculo 5 720p
+magnet:?xt=urn:btih:8f2e6403ad54fcffef09fcd26cbc5ea08389a58a
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/00/The_Twilight_Saga_Breaking_Dawn_part_II.jpg/250px-The_Twilight_Saga_Breaking_Dawn_part_II.jpg"group-title="Aventura",Crepúsculo 5 1080p
+magnet:?xt=urn:btih:a39ab0115da6c961368612f3d991c5b40558f21f
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/7/76/Kungfupanda.jpg/200px-Kungfupanda.jpg"group-title="Animação",Kung Fu Panda 1 720p
+magnet:?xt=urn:btih:a5c76ce4981d69e0dd8cac9e6f9df46155abda52
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/7/76/Kungfupanda.jpg/200px-Kungfupanda.jpg"group-title="Animação",Kung Fu Panda 1 1080p
+magnet:?xt=urn:btih:deafb8761ddbc8f4287858a43c669e0bfd017cb7
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b1/Kung_Fu_Panda_2_Poster.jpg/220px-Kung_Fu_Panda_2_Poster.jpg"group-title="Animação",Kung Fu Panda 2 720p
+magnet:?xt=urn:btih:f41edc7a3cfd20ad8b3b714e72f25c0b54cbd24c
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b1/Kung_Fu_Panda_2_Poster.jpg/220px-Kung_Fu_Panda_2_Poster.jpg"group-title="Animação",Kung Fu Panda 2 1080p
+magnet:?xt=urn:btih:78c40f183a0d579c359742f2f86721e5c208ab07
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/d6/Kung_Fu_Panda_3.jpg/250px-Kung_Fu_Panda_3.jpg"group-title="Animação",Kung Fu Panda 3 720p
+magnet:?xt=urn:btih:45df36477f6cb7e37b8780df38c325131a4d5d56
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/d6/Kung_Fu_Panda_3.jpg/250px-Kung_Fu_Panda_3.jpg"group-title="Animação",Kung Fu Panda 3 1080p
+magnet:?xt=urn:btih:88a26a81502ed2a5d5cd776462ae512e1dd334a2
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/63/O_Golpe_do_Drag%C3%A3o.jpg/200px-O_Golpe_do_Drag%C3%A3o.jpg"group-title="Dragon ball",Dragon Ball Z: O Golpe do Dragão
+magnet:?xt=urn:btih:412bd7d474dce14413f6b25b3f6ac2d36b366eee
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/31/O_Poder_Invenc%C3%ADvel.jpg/200px-O_Poder_Invenc%C3%ADvel.jpg"group-title="Dragon ball",Dragon Ball Z: O Poder Invencível
+magnet:?xt=urn:btih:44c0c864bad49dfe7b9b918c2f23af24b5f071b9
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/aVlkvo8FvttSFPuJ7y9QO0jCYMG.jpg"group-title="Dragon ball",Dragon Ball Z: O Retorno do Guerreiro Lendário
+magnet:?xt=urn:btih:aee8d9505980276990837d001f1b83917d0b704e
+#EXTINF: -1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/19/01/09/22/25/3430729.jpg"group-title="Dragon ball",Dragon Ball Z: O Combate Final
+magnet:?xt=urn:btih:a3fbf4abb721a1b22df5256c66fdd613f60c1e3a
+#EXTINF: -1 tvg-logo="https://media.fstatic.com/oP0Rh7_3fAAG8qytWhWGwya-Lfg=/210x312/smart/media/movies/covers/2014/11/dragon-ball-z-filme-4-lord-slug_t15707_2.jpg"group-title="Dragon ball",Dragon Ball Z: Goku, o Super-Saiyajin
+magnet:?xt=urn:btih:52eeaf532c0d0eebe969434e7f1e4fcb125d06c1
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/da/DragonBallZ-BattleofGods-poster.jpeg/250px-DragonBallZ-BattleofGods-poster.jpeg"group-title="Dragon ball",Dragon Ball Z: A Batalha dos Deuses
+magnet:?xt=urn:btih:61eb8db8f019df4bae734d17ba4f6a75aa58322a
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/27/Dragon_Ball_Z_O_Renascimento_de_Freeza.jpg/247px-Dragon_Ball_Z_O_Renascimento_de_Freeza.jpg"group-title="Dragon ball",Dragon Ball Z: O Renascimento de Freeza 
+magnet:?xt=urn:btih:97ccdccd9f15c1b6d8acb62372ccc6d504c202e9
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a1/Doragon_b%C3%B4ru_ch%C3%B4_Buror%C3%AE.jpg/243px-Doragon_b%C3%B4ru_ch%C3%B4_Buror%C3%AE.jpg"group-title="Dragon ball",Dragon Ball Super: Broly
+magnet:?xt=urn:btih:3aa1aeb8282bd6ec70977fb21ab4e884a023490e
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/e5/72/3c/e5723c13e8efc74802652102b2c27737.png"group-title="Dragon ball",Dragon Ball  Temporada Completa
+magnet:?xt=urn:btih:82766ffa8082c1fbdf361e2a4c05bc46f120043f
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/51MNRdO4RsL._AC_SY780_.jpg"group-title="Dragon ball",Dragon Ball GT Temporada Completa 
+magnet:?xt=urn:btih:49e9058098be279c7ada498398b30c1344d22600
+#EXTINF: -1 tvg-logo="https://media.fstatic.com/EPQKvRKyXuoj4joLI74MOBRLqRU=/210x312/smart/media/movies/covers/2014/11/dragon-ball-z-filme-12-uma-nova-fusao_t14285_2.jpg"group-title="Dragon ball",Dragon Ball Z: A Fusão de Goku e Vegeta
+magnet:?xt=urn:btih:d85e05c354266b15ef00708208ab213b6b827147
+#EXTINF: -1 tvg-logo="https://media.fstatic.com/1nN3G1waU0PDC09tL-WtQTGly5I=/210x312/smart/media/movies/covers/2014/11/dragon-ball-z-filme-6-o-retorno-de-cooler_t15709_2.jpg"group-title="Dragon ball",Dragon Ball Z: O Retorno de Cooler
+magnet:?xt=urn:btih:ae59ae8e378ae5469e7b5a0ebcf154fbb2a0b2c1
+#EXTINF: -1 tvg-logo="https://media.fstatic.com/83OSsUuEDLQM5G2vPaqZW5201B0=/210x312/smart/media/movies/covers/2014/11/dragon-ball-z-filme-5-uma-vinganca-para-freeza_t15708_3.jpg"group-title="Dragon ball",Dragon Ball Z: Uma Vingança para Freeza
+magnet:?xt=urn:btih:973bec65e2ae03402d109b0ef13f89f86dfda4f0
+#EXTINF: -1 tvg-logo="https://media.fstatic.com/OpgPOksyFDEaX1_6DdPUnyY0uiY=/210x312/smart/media/movies/covers/2014/11/dragon-ball-z-filme-3-a-arvore-do-poder_t14284.jpg"group-title="Dragon ball",Dragon Ball Z: A Árvore do Poder
+magnet:?xt=urn:btih:f81aa3746e04572d359fe3208918d71f2910ad21
+#EXTINF: -1 tvg-logo="https://media.fstatic.com/MHbfs06PPnAbK7TQKAfiZPDVfdg=/210x312/smart/media/movies/covers/2014/11/dragon-ball-z-filme-7-o-retorno-dos-androides_t15710_3.jpg"group-title="Dragon ball",Dragon Ball Z: O Retorno dos Andróides
+magnet:?xt=urn:btih:0d03f2f02ad394bb365ca07756c7b0157805c231
+#EXTINF: -1 tvg-logo="https://media.fstatic.com/9gqDgNX2tmYbQ0sP56_EZm45K_g=/210x312/smart/media/movies/covers/2014/11/dragon-ball-z-especial-2-gohan-e-trunks-os-guerreiros-do-fut_t23910_1.jpg"group-title="Dragon ball",Dragon Ball Z: Gohan e Trunks, os Guerreiros do Futuro
+magnet:?xt=urn:btih:c6c46335066f892119dcfc4d79c0f644858e1066
+#EXTINF: -1 tvg-logo="https://media.fstatic.com/Hv-Chlf0J6m7jvmZjM5l-rSaA-k=/210x312/smart/media/movies/covers/2014/11/dragon-ball-z-filme-9-a-batalha-nos-dois-mundos_t15712_1.jpg"group-title="Dragon ball",Dragon Ball Z: A Batalha Nos Dois Mundos
+magnet:?xt=urn:btih:93973baaf1482612ce2a262000c38bcebbae87b5
+#EXTINF: -1 tvg-logo="https://media.fstatic.com/Yj-wKND52eryV98CxZVsWHgMDQ4=/210x312/smart/media/movies/covers/2014/11/dragon-ball-z-filme-2-o-homem-mais-forte-do-mundo_t15706_1.jpg"group-title="Dragon ball",Dragon Ball Z: O Homem Mais Forte do Mundo
+magnet:?xt=urn:btih:0bdfc153d422cb7095668ba02cc6e9099e72a22a
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg"group-title="Dragon ball",Dragon Ball Super Temporada Completa
+magnet:?xt=urn:btih:B57KN3GG2OZQQTSLAAAAMI6KV5JTH4MK&dn=%5BACESSE%20COMANDOTORRENTS.COM%5D%20Dragon%20Ball%20Super%20Ep.%2001%20ao%20Ep.%20131%20%5B1080p%5D%20%5BWEB-DL%5D%20%5BDUAL%5D
+#EXTINF: -1 tvg-logo="https://media.fstatic.com/s1tpmGWtUuIZkTkuCpxq7x9WNP4=/210x312/smart/media/movies/covers/2014/12/dragon-ball-z_t26474_11.jpg"group-title="Dragon ball",Saga Sayajim
+magnet:?xt=urn:btih:f5635167d1f45159e5668e6a76b38c774b238a0f&dn=Dragon+Ball+Z+-+Saga+dos+Sayajins+720p+dublado+-+FB&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337
+#EXTINF: -1 tvg-logo="https://media.fstatic.com/gNqEeMWlJvGRgIspunFbN1T2xhA=/210x312/smart/media/movies/covers/2014/12/dragon-ball-z-3a-temporada_t111854_14.jpg"group-title="Dragon ball",Saga Freeza
+magnet:?xt=urn:btih:cfc59ce47c7c0f0edbedc357dc2458b9056f7d83&dn=Dragon+Ball+Z+-+Saga+de+Freeza+720p+dublado+-+FB&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337
+#EXTINF: -1 tvg-logo="https://media.fstatic.com/N6D9XQWaVsSlDk2NgNOaSxkGSxE=/210x312/smart/media/movies/covers/2014/12/dragon-ball-z-5a-temporada_t111856_12.jpg"group-title="Dragon ball", Saga Garlic Jr
+magnet:?xt=urn:btih:05f99038fd0f1fc7d81251425649642841961870&dn=Dragon+Ball+Z+-+Saga+de+Garlic+Jr.+720p+dublado+-+FB&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337
+#EXTINF: -1 tvg-logo="https://media.fstatic.com/e05s_HsgCgCO77IkfmeRcufqyPU=/210x312/smart/media/movies/covers/2014/12/dragon-ball-z-4a-temporada_t111855_14.jpg"group-title="Dragon ball",Saga Android
+magnet:?xt=urn:btih:e5f7f815ebe8a8a683744ecc47e1a32189c14a53&dn=Dragon+Ball+Z+-+Saga+dos+Androides+720p+dublado+-+FB&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337
+#EXTINF: -1 tvg-logo="https://media.fstatic.com/D5n6B51WQ9hRRejCiQB_Q8ds_h0=/210x312/smart/media/movies/covers/2014/12/dragon-ball-z-6a-temporada_t111857_13.jpg"group-title="Dragon ball",Saga Cell
+magnet:?xt=urn:btih:c99759c4f0accb04e2b47aa0b6d2efa5f0da5b41&dn=Dragon+Ball+Z+-+Saga+de+Cell+720p+dublado+-+FB&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337
+#EXTINF: -1 tvg-logo="https://media.fstatic.com/H6heDu0gP-u2e9RdcMKernGspMo=/210x312/smart/media/movies/covers/2014/12/dragon-ball-z-8a-temporada_t111859_12.jpg"group-title="Dragon ball",Saga Torneio Do Outro Mundo
+magnet:?xt=urn:btih:6d3eb64b65edd8cc6d064f8aa327427f0b74439f&dn=Dragon+Ball+Z+-+Saga+Torneio+do+Outro+Mundo+720p+dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker-ccc.de%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337
+#EXTINF: -1 tvg-logo="https://media.fstatic.com/jfCBwvCJ1vkMZ7fnOskclvsMMAY=/210x312/smart/media/movies/covers/2014/12/dragon-ball-z-9a-temporada_t111860_15.jpg"group-title="Dragon ball",Saga Majin Boo
+magnet:?xt=urn:btih:f971d0d48f8acaa1f425d9004fb37c2c7e18a697&dn=Dragon+Ball+Z+-+Saga+Majin+Boo+720p+dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker-ccc.de%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d2/Naruto_vol._01.jpg"group-title="Naruto",Naruto Clássico Completo
+magnet:?xt=urn:btih:BL2SY4MLBNBIQB4JFT2AU4K2N5KMFNC5&dn=Naruto%202002-2007%20-%20Todas%20as%20Temporadas%20Completa%20(SD)%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV
+#EXTINF: -1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/17/02/01/13/28/337995.jpg"group-title="Naruto",Naruto Shippuden Completo
+magnet:?xt=urn:btih:YN6BSGCS75K3XMZ4BHJCQZ2DJVFZA43F&dn=Naruto%20Shippuden%20Completo%20(720p)%20LEGENDADO%20-%20WWW.BLUDV.TV
+#EXTINF: -1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/17/09/29/21/15/4233147.jpg"group-title="Flash",Flash 1ª Temporada Completa
+magnet:?xt=urn:btih:66a5cb5d33f2aeb45f5429429a06277e049627f3
+#EXTINF: -1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/17/09/29/21/15/4233147.jpg"group-title="Flash",Flash 2ª Temporada Completa
+magnet:?xt=urn:btih:2d8f712589b7e2f8283411023a63c56aa876080f
+#EXTINF: -1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/17/09/29/21/15/4233147.jpg"group-title="Flash",Flash 3ª Temporada Completa
+magnet:?xt=urn:btih:d0d544e859b7020e70da4fbafdc612b61de67944
+#EXTINF: -1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/17/09/29/21/15/4233147.jpg"group-title="Flash",Flash 4ª Temporada Completa
+magnet:?xt=urn:btih:f9c96a50a20979dd4f5513665e0a4920e52c6854
+#EXTINF: -1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/17/09/29/21/15/4233147.jpg"group-title ="Flash",Flash 5ª Temporada Completa
+magnet:?xt=urn:btih:de1f5ba6263a8179986154009e7939966cbc75f6
+#EXTINF: -1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/17/09/29/21/15/4233147.jpg"group-title="Flash",Flash 6ª Temporada Completa
+magnet:?xt=urn:btih:8240837b0faf680ecf0decf14288f1a5e0b00bbb
+#EXTINF: -1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/17/09/29/21/15/4233147.jpg"group-title="Flash",Flash 7ª Temporada Completa
+magnet:?xt=urn:btih:454c06a6b70367c68de42f05098d84230112d050
+#EXTINF: -1 tvg-logo="https://br.web.img3.acsta.net/c_210_280/pictures/17/08/31/23/41/560893.jpg"group-title="Stranger Things",Stranger Things 1ª Temporada Completa
+magnet:?xt=urn:btih:ae5916202f1a04e14cecc07de532bb69ef8158cd
+#EXTINF: -1 tvg-logo="https://br.web.img3.acsta.net/c_210_280/pictures/17/07/11/16/54/504524.jpg"group-title = "Stranger Things",Stranger Things 2ª Temporada Completa
+magnet:?xt=urn:btih:660372c0abb941fc974cc3115850b5b3491ff6d7
+#EXTINF: -1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/19/07/10/20/01/2331295.jpg"group-title="Stranger Things",Stranger Things 3ª Temporada Completa
+magnet:?xt=urn:btih:5079215f8a67d9b69d06797e01d8d85d4992c47d
+#EXTINF: -1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/medias/nmedia/18/90/90/53/20498802.jpg"group-title="Animação",Os Croods
+magnet:?xt=urn:btih:a29018104da1a01e903dabbef78ef646914759a8
+#EXTINF: -1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/21/03/11/15/47/5912394.jpg"group-title="Animação",Os Croods 2 Uma Nova Era
+magnet:?xt=urn:btih:48fc86c04d422608f713c299ebf75acee3d6b025
+#EXTINF: -1 tvg-logo=""group-title="Animação",
+
+#EXTINF: -1 tvg-logo="https://br.web.img3.acsta.net/c_225_300/pictures/18/11/07/17/15/4862032.jpg"group-title="La Casa de Papel",La Casa de Papel 1ª Temporada Completa
+magnet:?xt=urn:btih:322aef81478a74d32305ee7fec60ce3d9293c418
+#EXTINF: -1 tvg-logo="https://br.web.img2.acsta.net/c_225_300/pictures/18/10/04/14/37/5668964.jpg"group-title="La Casa de Papel",La Casa de Papel 2ª Temporada Completa
+magnet:?xt=urn:btih:44469d737d9ec3b05558329f70e64c932ce362e7
+#EXTINF: -1 tvg-logo="https://br.web.img3.acsta.net/c_225_300/pictures/20/04/07/19/29/2754760.jpg"group-title="La Casa de Papel",La Casa de Papel 3ª Temporada Completa
+magnet:?xt=urn:btih:cc9259121bba7b83f8a4206672964c21233b5deb
+#EXTINF: -1 tvg-logo="https://br.web.img2.acsta.net/c_225_300/pictures/20/04/07/19/31/0195880.jpg"group-title="La Casa de Papel",La Casa de Papel 4ª Temporada Completa
+magnet:?xt=urn:btih:0388b8a8cb2238120211fa7300d454dbf43429f6
+#EXTINF: -1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/medias/nmedia/18/91/75/09/20500585.jpg"group-title="Ação",Depois da Terra
+magnet:?xt=urn:btih:23fb96c98419670ee783a9effdc0b2935439328f
+#EXTINF: -1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/19/02/04/18/35/1468867.jpg"group-title="Ação",Capitã Marvel
+magnet:?xt=urn:btih:5e2e7cc1b270f5931a4405b6aad1401bb33ba391
+#EXTINF: -1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/19/12/05/16/00/0409486.jpg"group-title="Aventura",Mulan
+magnet:?xt=urn:btih:4959a62ed0ed34203fe654fbe69f659ab25887a2
+#EXTINF: -1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/18/04/10/04/46/5013486.jpg"group-title="Ação",Megatubarão
+magnet:?xt=urn:btih:45db5cfda29b75695ab7b20e219ab7aa1d6ba94c
+#EXTINF: -1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/17/12/07/11/33/0502209.jpg"group-title="Animação",Viva: A Vida é uma Festa
+magnet:?xt=urn:btih:13e0b4e8fb184a2d67a0ba0ddd13a8f5dd94506f
+#EXTINF: -1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/medias/nmedia/18/87/33/05/20028705.jpg"group-title="Ação",Thor
+magnet:?xt=urn:btih:24e4d465763c62f29004b5c8f5564dfd623b426c
+#EXTINF: -1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/210/240/21024039_20130801212713895.jpg"group-title="Ação",Thor: O Mundo Sombrio
+magnet:?xt=urn:btih:0285feecf9d44eaa6038a1e7f9847ad2add6a8bd
+#EXTINF: -1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/17/08/26/00/05/175443.jpg"group-title="Ação",Thor Ragnarok
+magnet:?xt=urn:btih:8edf7e7bd4f66930881d69418142cb29f3aed755
+#EXTINF: -1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/19/04/23/16/16/5129967.jpg"group-title="Ação",Projeto Gemini
+magnet:?xt=urn:btih:6f60010d8e2697001f2cc7fd3fd04af4ab417667
+#EXTINF: -1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/19/06/12/14/10/0645123.jpg"group-title="Ação",Invasão ao Serviço Secreto
+magnet:?xt=urn:btih:408ef9bdc764cbd084dbe1928b9b43e5e40d991d
+#EXTINF: -1 tvg-logo="https://media.fstatic.com/YmReEewMBN5qBIdQV_gcT3l3aAQ=/210x312/smart/media/movies/covers/2011/07/4fbc1fa00ba6b10c1317db8034b23b27.jpg"group-title="Ação",Capitão América: O Primeiro Vingador 
+magnet:?xt=urn:btih:b50f60f75b2e57a15995a52f3e9a577bbf9aa34a
+#EXTINF: -1 tvg-logo="https://media.fstatic.com/Et1A92mxYmwzZatmxbXckcTMcXM=/210x312/smart/media/movies/covers/2014/01/capitao-america-2-o-soldado-invernal_t36364_6.jpg"group-title="Ação",Capitão América 2: O Soldado Invernal
+magnet:?xt=urn:btih:cad585545fb94deefe2d2de444d1524acc81cec9
+#EXTINF: -1 tvg-logo="https://media.fstatic.com/6_FiufMLvfsULtAGbcBpLu8LNzA=/210x312/smart/media/movies/covers/2016/03/capitao-america-guerra-civil_t93414_1ZIsJit.jpg"group-title="Ação",Capitão América: Guerra Civil
+magnet:?xt=urn:btih:27d2c99a9ecc3f0378999bf293eae41af641971b
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/39/Didi_Quer_Ser_Crian%C3%A7a.jpg/235px-Didi_Quer_Ser_Crian%C3%A7a.jpg"group-title="Comédia",Didi Quer Ser Criança
+magnet:?xt=urn:btih:6f3d7e3cdd40eaa0b90256657dda4428b06a48b4
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/7/7d/Rango_p%C3%B4ster.jpg/220px-Rango_p%C3%B4ster.jpg"group-title="Animação",Rango
+magnet:?xt=urn:btih:efbe533f7af120f575f546780f02815fa87ecde2
+#EXTINF: -1 tvg-logo="https://media.fstatic.com/KWxnVjR--_175_xNhhy7nsoY6RE=/210x312/smart/media/movies/covers/2018/06/Black-Panther-poster-main-xl.jpg"group-title="Ação",Pantera Negra
+magnet:?xt=urn:btih:38cd899eb83fc9be339a81f68d7195886661990c
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/90/Ant_Man-Poster.jpg/250px-Ant_Man-Poster.jpg"group-title="Ação",Homem-Formiga
+magnet:?xt=urn:btih:c2e66fc4ad10e95d6e0a25200fcf886fc9d5a098
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/51/Ant-Man_and_the_Wasp.jpg/250px-Ant-Man_and_the_Wasp.jpg"group-title="Ação",Homem-Formiga e a Vespa
+magnet:?xt=urn:btih:fa361899288eb5f6526047c6d384377f6489bd3c
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/34/Norbit.jpg/200px-Norbit.jpg"group-title="Comédia",Norbit uma Comédia de Peso
+magnet:?xt=urn:btih:da16587ae6abd2acb13c5c54142ff15417ae93c9
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b4/Tom_and_Jerry_-_The_Movie_Poster.png"group-title="Animação",Tom & Jerry: O Filme
+magnet:?xt=urn:btih:00ea7ce75c42176095d89be23af2d3d6aaf3f61f
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/cc/Step_Up.jpg/200px-Step_Up.jpg"group-title="musical",Ela Dança, Eu Danço 1
+magnet:?xt=urn:btih:005c94273f17523df6561985ecefa861f7b6c71f
+#EXTINF: -1 tvg-logo="https://acheicinema.com/wp-content/uploads/2020/09/A0IBQe9vPjd3CR14uYz9Lklxrfh-185x278.jpg"group-title="musical",Ela Dança, Eu Danço 2
+magnet:?xt=urn:btih:1e45d9c92452a430e8ad13d4ac2089c5363f421c
+#EXTINF: -1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/90/37/67/20093741.JPG"group-title="musical",Ela Dança, Eu Danço 3 
+magnet:?xt=urn:btih:c8cfa2fece7085f9d9177a4e0509053c7645b720
+#EXTINF: -1 tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/91/00/22/20190841.jpg"group-title="musical",Ela Dança, Eu Danço 4
+magnet:?xt=urn:btih:ca8692919aa0361cdeaac9f49ed730371b77b860
+#EXTINF: -1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/16/01/25/13/24/532675.jpg"group-title="musical",Ela Dança, Eu Danço 5
+magnet:?xt=urn:btih:6e0031629a0e623c8f7864bb7016528f2098d4de
+#EXTINF: -1 tvg-logo="https://cinepop.com.br/wp-content/uploads/2021/06/space-jam.jpg"group-title="Animação",Space Jam Um Novo Legado
+magnet:?xt=urn:btih:75b5405815b3b3016e0818b00cf78762b2ac4d0b
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Fast_%26_Furious_9_The_Fast_Saga.jpg/243px-Fast_%26_Furious_9_The_Fast_Saga.jpg"group-title="Lançamentos",Velozes & Furiosos 9 720p
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f6/Cruella_2021_film_poster.jpg"group-title="Lançamentos",Cruella
+magnet:?xt=urn:btih:0657a6a19541a05cacecf638445b55663acd19d7
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/68/Transporterposter.jpg/200px-Transporterposter.jpg"group-title="Ação",Carga Explosiva 1
+magnet:?xt=urn:btih:c5fd330330535ed9d43a672908925eb97aefc76c
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/eb/The_Transporter_2_poster.jpg/200px-The_Transporter_2_poster.jpg"group-title="Ação",Carga Explosiva 2
+magnet:?xt=urn:btih:e81d57d4729fcf8b571577b6fd2a41d16157fffb
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e5/Transporter_3.jpg/220px-Transporter_3.jpg"group-title="Ação",Carga Explosiva 3
+magnet:?xt=urn:btih:a9cc97766daaf4b97fd8c73f21398afa32ddf5de
+#EXTINF: -1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/15/08/05/15/29/508592.jpg"group-title="Ação",Carga Explosiva: O Legado
+magnet:?xt=urn:btih:e71b35d3acdca23a550a86413160e2999303509a
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f6/Cruella_2021_film_poster.jpg"group-title="Comédia",Cruella
+magnet:?xt=urn:btih:0657a6a19541a05cacecf638445b55663acd19d7
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e2/Parker.jpg/200px-Parker.jpg"group-title="Ação",Parker
+magnet:?xt=urn:btih:b41230080e7911d09e106c47ababb5d5a672a712
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/89/Crank_P%C3%B4ster.jpg/220px-Crank_P%C3%B4ster.jpg"group-title="Ação",Adrenalina 1
+magnet:?xt=urn:btih:b2d8f90c9701bea5f6b3d98564b87250a203eba5
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/99/Crank_High_Voltage_P%C3%B4ster.jpg/220px-Crank_High_Voltage_P%C3%B4ster.jpg"group-title="Ação",Adrenalina 2
+magnet:?xt=urn:btih:d318cca58e3663fed028d8ef63505e3153122e9d
+#EXTINF: -1 tvg-logo="https://www.papodecinema.com.br/wp-content/uploads/2016/10/20190328-assassino__preo_fixo.jpg"group-title="Ação",Assassino a Preço Fixo 1
+magnet:?xt=urn:btih:9dc2cdaab02f5d3e24324f7e2ce1a2ea50c2d25c
+#EXTINF: -1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/16/07/07/18/06/104239.jpg"group-title="Ação",Assassino a Preço Fixo 2
+magnet:?xt=urn:btih:d49c4cf9c0f4c07bd44638bae7fe8fc13d02f5f9
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/5c/Fast_%26_Furious_Presents_Hobbs_%26_Shaw.jpg/250px-Fast_%26_Furious_Presents_Hobbs_%26_Shaw.jpg"group-title="Ação",Velozes & Furiosos: Hobbs & Shaw
+magnet:?xt=urn:btih:1843ebcda8cbcfa2d386dc72793ec9eb9a25344b
+#EXTINF: -1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/15/11/09/11/39/046002.jpg"group-title="Ação",Redenção
+magnet:?xt=urn:btih:f6c578d7c83f595091752228b804152d967d0032
+#EXTINF: -1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/medias/nmedia/18/92/06/29/20178025.jpg"group-title="Ação",O Código
+magnet:?xt=urn:btih:f17e755bff4baae219d97e4b3e8ec20cb4dcd50f
+#EXTINF: -1 tvg-logo="https://media.fstatic.com/Ev5tjYoSRtz-az8Cq1wuMcDE6Ko=/210x312/smart/media/movies/covers/2013/03/e65ccbf0ffb82be571838575bafb93fb_1.jpg"group-title="Ação",Os Especialistas
+magnet:?xt=urn:btih:59cea259116c67653f5dabe93295c1e45cee99d9
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/80/Os_Mercen%C3%A1rios_Capa.jpg/230px-Os_Mercen%C3%A1rios_Capa.jpg"group-title="Ação",Os Mercenários 1
+magnet:?xt=urn:btih:d8a9b3a456a42801de0178b31b6297f345921243
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/7/7b/Mercen%C3%A1rios_2.jpg/215px-Mercen%C3%A1rios_2.jpg"group-title="Ação",Os Mercenários 2
+magnet:?xt=urn:btih:71a74d101c5282e0cd3557ef1336a220dded6c7d
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/7/71/The_Expendables_3.jpg/220px-The_Expendables_3.jpg"group-title="Ação",Os Mercenários 3
+magnet:?xt=urn:btih:c5296b2a88d76044e07b7ab8aab9b538e7c5609b
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/88/Black_Widow_%282020%29.jpg/250px-Black_Widow_%282020%29.jpg"group-title="Ação",Viúva Negra
+magnet:?xt=urn:btih:e0d1b04ecc743a74b6e5874348203f16bb56dc0d
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/88/Black_Widow_%282020%29.jpg/250px-Black_Widow_%282020%29.jpg"group-title="Lançamentos",Viúva Negra
+magnet:?xt=urn:btih:e0d1b04ecc743a74b6e5874348203f16bb56dc0d
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ea/Raya_and_the_Last_Dragon.png"group-title="Animação",Raya e o Último Dragã
+magnet:?xt=urn:btih:493f7c6c0d096a846e06c9a7a8f400547c28c3d5
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/50/Shazam%21.jpg/243px-Shazam%21.jpg"group-title="Ação",Shazam
+magnet:?xt=urn:btih:12e7d137b77b6629c44c6100303991ef065549ee
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/82/It_2017.jpg/243px-It_2017.jpg"group-title="Terror",It: A Coisa 1
+magnet:?xt=urn:btih:5598a33e35a49e63f9d1d5222a79dfd7a3bf6898
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b3/It_Chapter_Two.jpg/250px-It_Chapter_Two.jpg"group-title="Terror",It: A Coisa 2
+magnet:?xt=urn:btih:f5fa471570abc394008bc23dbea818a1621550d7
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/f/fe/Grownupsmovie.jpg/215px-Grownupsmovie.jpg"group-title="Comédia",Gente Grande 1
+magnet:?xt=urn:btih:5265c0b8028a9c1318cc352e8a5f184c015b51e2
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/d6/Grown_Ups.jpg/215px-Grown_Ups.jpg"group-title="Comédia",Gente Grande 2
+magnet:?xt=urn:btih:510a76eb44ff773f5f8b7c8a75a909fd0728826b
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/00/Iron_Man_poster.jpg/250px-Iron_Man_poster.jpg"group-title="Ação",Homen de ferro 1
+magnet:?xt=urn:btih:5871a93d9d436d3ebd290c4ac88fb5b684e875c0
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9a/Homem_de_Ferro_2_-_Poster.jpg/250px-Homem_de_Ferro_2_-_Poster.jpg"group-title="Ação",Homen de ferro 2
+magnet:?xt=urn:btih:c7b94d07a5c4e29d35971412576b294b2213a295
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/19/Iron_Man_3_poster.jpg/240px-Iron_Man_3_poster.jpg"group-title="Ação",Homen de ferro 3
+magnet:?xt=urn:btih:f281f835a210cb6aad35892417a322d2bb6640cf
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b7/Venom_2018.jpg/250px-Venom_2018.jpg"group-title="Ação",Venom
+magnet:?xt=urn:btih:eb2196840a2133a26aee37ceee0d2bcc2c7a2d3a
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc1NzMzMzU4Nl5BMl5BanBnXkFtZTcwNTQ3NDYwNQ@@._V1_UY98_CR1,0,67,98_AL_.jpg"group-title="Animação",Hulk Vs
+magnet:?xt=urn:btih:5ce5598e446d934d009bf6296f38b8d15c9d7045
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8c/Planeta_Hulk_DVD.jpg/250px-Planeta_Hulk_DVD.jpg"group-title="Animação",Planeta Hulk
+magnet:?xt=urn:btih:378093f9655c1c93ac15ff52b475defa32d64ed2
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/14/Spide-Man_Poster.jpg/250px-Spide-Man_Poster.jpg"group-title="Ação",homen aranha 1
+magnet:?xt=urn:btih:43776d3e980526882028542724198c76b6b5caaf
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1a/Spider-Man_2.jpg"group-title="Ação",homen aranha 2
+magnet:?xt=urn:btih:3ba9adeed2ee648a31e10ef1a4629823813221cc
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/37/Spider-Man_3.jpg/250px-Spider-Man_3.jpg"group-title="Ação",homen aranha 3
+magnet:?xt=urn:btih:dfa7a0c9aa3082d29d31915af6775693e2e3a5fe
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/53/The_Amazing_Spider-Man_Poster.jpg/250px-The_Amazing_Spider-Man_Poster.jpg"group-title="Ação",O Espetacular Homem-Aranha
+magnet:?xt=urn:btih:8086c8fe9eaf45d238dd0612f4598b7a0d0fdd27
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/eb/The_Amazing_Spider-Man_2.jpg/250px-The_Amazing_Spider-Man_2.jpg"group-title="Ação",O Espetacular Homem-Aranha 2
+magnet:?xt=urn:btih:8f236b1b183bf15cba4754a249528c87fdb73014
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/87/Spider-Man_Homecoming.png/250px-Spider-Man_Homecoming.png"group-title="Ação",Homem-Aranha: De Volta ao Lar
+magnet:?xt=urn:btih:995827590b5dce7f2e56db55dbf2caf3300b9978
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/04/Spider-man-far-from-home-poster.jpg/250px-Spider-man-far-from-home-poster.jpg"group-title="Ação",Homem-Aranha: Longe de Casa
+magnet:?xt=urn:btih:a728eeb64cf609a49ed9c715d1fb5fced82729e3
+#EXTINF: -1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/17/03/07/12/42/293493.jpg"group-title="Aventura",Portal dos Guerreiros
+magnet:?xt=urn:btih:42aca012ac6b149699015aeea39e82d6788f1ea1
+#EXTINF: -1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/19/07/04/00/09/0672480.jpg"group-title="Aventura",Godzilla vs. Kong
+magnet:?xt=urn:btih:cbcc53d5c378c75feec53ab6ef3aa54cd64ab660
+#EXTINF: -1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/20/10/14/17/17/1531042.jpg"group-title="Ação",Monster Hunter
+magnet:?xt=urn:btih:5730dc09f510038de225e9e0ad9321361232a629
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a8/Bad_Boys.jpg/250px-Bad_Boys.jpg"group-title="Ação",Os Bad Boys 1
+magnet:?xt=urn:btih:bd1ceb26b32979f0bfa4037fa8dc52c31e5a3dd7
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/62/Bad_Boys_II.jpg/200px-Bad_Boys_II.jpg"group-title="Ação",Os Bad Boys 2
+magnet:?xt=urn:btih:dba55a1bdc2d87e8db55ad7a521e8fd0e3d55a02
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/69/Bad_Boys_for_Life_%28poster%29.jpg/250px-Bad_Boys_for_Life_%28poster%29.jpg"group-title="Ação",Os Bad Boys 3
+magnet:?xt=urn:btih:1cbc9021781143b099b8a3c8ec463275d6a7dcc8
+#EXTINF: -1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/20/01/22/18/59/2385080.jpg"group-title="Ação",Bloodshot
+magnet:?xt=urn:btih:d0430d70e8c653f140fc6bc151dccba21cb18fcd
+#EXTINF: -1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/18/04/05/19/50/5994305.jpg"group-title="Ação",Rampage: Destruição Total
+magnet:?xt=urn:btih:c5eedb2310b6506c73e54a013a42b5f40136e90b
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9f/Sonic_the_Hedgehog_2019.jpg/250px-Sonic_the_Hedgehog_2019.jpg"group-title="Ação",Sonic: O Filme
+magnet:?xt=urn:btih:9579869991c0f1461c204d217389775d891f4980
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/48/Kong-Skull_Island.jpg/250px-Kong-Skull_Island.jpg"group-title="Ação",Kong: A Ilha da Caveira
+magnet:?xt=urn:btih:36ac31a913dbc4bef427cc1733333f542653b55e
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/c7/Doctor_Strange_poster.jpg/250px-Doctor_Strange_poster.jpg"group-title="Ação",
+magnet:?xt=urn:btih:d2cf1dae8043627202ab2bab5bd93e271a6245f1
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b0/Big-Hero-6-movie-poster.jpg"group-title="Animação",Operação Big Hero 
+magnet:?xt=urn:btih:feefca42e390807152a3e59510822f8abababff9
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/4b/Os_Incr%C3%ADveis.jpg/250px-Os_Incr%C3%ADveis.jpg"group-title="Animação",Os Incríveis 1
+magnet:?xt=urn:btih:935f7a22677dc58a7eef600818478daa4f6f7c58
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/de/Incredibles2.png/250px-Incredibles2.png"group-title="Animação",Os Incríveis 2
+magnet:?xt=urn:btih:385531e78f2c8aeac369aa35fdee89f021a56271
+#EXTINF: -1 tvg-logo=""group-title="Ação",
+
+#EXTINF: -1 tvg-logo=""group-title="Ação",
+
+#EXTINF: -1 tvg-logo=""group-title="Ação",
+
+#EXTINF: -1 tvg-logo=""group-title="Ação",
+
+#EXTINF: -1 tvg-logo=""group-title="Ação",
+
+#EXTINF: -1 tvg-logo=""group-title="Ação",
+
+#EXTINF: -1 tvg-logo=""group-title="Ação",
+
+
+
+
+
+
+
